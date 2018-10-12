@@ -1,15 +1,15 @@
 {
   "AL":	{
     "name": "Alabama",
-    "capitol": "Montgomery"
-    "origin":"December 14, 1819"
+    "capitol": "Montgomery",
+    "origin": "December 14, 1819"
     },
    "AK": {
     "name": "Alaska",
     "capitol": "Juneau",
-    "origin": "January 3, 1959"
+    "origin": "January 3, 1959",
     "endpoint": "http://www.elections.alaska.gov/Core/candidatelistgenr.php"
-   }
+   },
    "unsorted": "
     3	AZ	Arizona	Phoenix	February 14, 1912
     4	AR	Arkansas	Little Rock	June 15, 1836
